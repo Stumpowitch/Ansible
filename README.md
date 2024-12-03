@@ -11,14 +11,9 @@ To set up the environment, follow these steps:
     python3 -m venv .venv
     ```
 
-2. Activate the virtual environment:
-    - On macOS/Linux:
+2. Activate the virtual environment on macOS/Linux/WSL:
       ```bash
       source .venv/bin/activate
-      ```
-    - On Windows:
-      ```bash
-      .venv\Scripts\activate
       ```
 
 3. Install the required dependencies by running:
